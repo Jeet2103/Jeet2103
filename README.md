@@ -1,6 +1,6 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]()
 <h1 align="center">Hi 👋, I'm Jeet Nandigrami</h1>
-<h3 align="center">A passionate full stack developer and Robotics from India</h3>
+<h3 align="center">A passionate full stack developer and Robotics enthusiasm from India</h3>
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet2103&label=Profile%20views&color=0e75b6&style=flat" alt="jeet2103" /> </p>
@@ -15,7 +15,7 @@
 
 - 📧 How to reach me **jeetnandigrami2003@gmail.com**
 
-- 🎥 Fun fact **I love watch movies**
+- 🎥 Fun fact **I love to watch movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
