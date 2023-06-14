@@ -34,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet2103&show_icons=true&locale=en" alt="jeet2103" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeet2103&" alt="jeet2103" /></p>
-<p align= "center"><b><em>"The best error message is the one that never shows up." <br>                            - Thomas Fuchs</em></b></p>
+<p align= "center" class="my-5" style="font-size : 30px"><b><em>"The best error message is the one that never shows up." <br>                                                                      - Thomas Fuchs</em></b></p>
