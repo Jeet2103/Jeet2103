@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Jeet Nandigrami</h1>
 <h3 align="center">A passionate full stack developer and Robotics enthusiast from India</h3>
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
+ <link
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Bruno+Ace+SC&family=Chakra+Petch:ital,wght@1,500&family=Foldit:wght@400;700&family=Orbitron:wght@900&family=Roboto+Mono&display=swap"
+      rel="stylesheet"
+    />
 
 <p align="center"> <img src="https://4foxsolutions.com/uploads/services/161278962920049071971149580094.gif" alt="jeet2103" /> </p>
 
@@ -34,4 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet2103&show_icons=true&locale=en" alt="jeet2103" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeet2103&" alt="jeet2103" /></p>
-<p align= "center" class="my-5" style="font-size : 30px"><b><em>"The best error message is the one that never shows up." <br>                                                                                                       - Thomas Fuchs</em></b></p>
+<p align= "center" class="my-5" style="font-size : 30px font-family:  'Orbitron', sans-serif ; color: #f1d2d7;"><b><em>"The best error message is the one that never shows up." <br>                                                                   - Thomas Fuchs</em></b></p>
