@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full stack developer and Robotics enthusiast from India</h3>
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
 
-<p align="middle"> <img src="https://4foxsolutions.com/uploads/services/161278962920049071971149580094.gif" alt="jeet2103" /> </p>
+<p align="left"> <img src="https://4foxsolutions.com/uploads/services/161278962920049071971149580094.gif" alt="jeet2103" /> </p>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeet2103" alt="jeet2103" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeet2103" alt="jeet2103" /></a> </p>
 
 - 🔭 I’m currently working on **Self Driving Car**
 
