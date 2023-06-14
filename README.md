@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/jeet nandigrami" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="jeet nandigrami" height="30" width="40" /></a>
 <a href="https://fb.com/jeet nandigrami" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="jeet nandigrami" height="30" width="40" /></a>
 <a href="https://instagram.com/nandigramijeet" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1658587162instagram-logo-png-hd.png" alt="nandigramijeet" height="30" width="40" /></a>
+  <a href="https://twitter.com/jeet_nandigrami" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/-516141173073bkpm2xhm8.png" alt="jeet_nandigrami" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
