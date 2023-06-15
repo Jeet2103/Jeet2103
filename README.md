@@ -4,7 +4,7 @@
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
 
 
-<p align="center" style="width:40px"> <img src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/d2.gif" alt="jeet2103" /> </p>
+<p align="center" > <img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" alt="jeet2103" /> </p>
 
 
 - 🔭 I’m currently working on **Self Driving Car**
