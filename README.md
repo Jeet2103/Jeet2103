@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpaperaccess.com/full/4910984.gif)]()
 <h1 align="center">Hi 👋, I'm Jeet Nandigrami</h1>
-<h3 align="center">A passionate full stack developer and Robotics enthusiast from India</h3>
+<h3 align="center">A passionate Frontend developer and Robotics enthusiast from India</h3>
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
  <link
       href="https://fonts.googleapis.com/css2?family=Anton&family=Bruno+Ace+SC&family=Chakra+Petch:ital,wght@1,500&family=Foldit:wght@400;700&family=Orbitron:wght@900&family=Roboto+Mono&display=swap"
