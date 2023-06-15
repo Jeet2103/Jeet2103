@@ -2,12 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jeet Nandigrami</h1>
 <h3 align="center">A passionate Frontend developer and Robotics enthusiast from India</h3>
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
- <link
-      href="https://fonts.googleapis.com/css2?family=Anton&family=Bruno+Ace+SC&family=Chakra+Petch:ital,wght@1,500&family=Foldit:wght@400;700&family=Orbitron:wght@900&family=Roboto+Mono&display=swap"
-      rel="stylesheet"
-    />
 
-<p align="center"> <img src="https://4foxsolutions.com/uploads/services/161278962920049071971149580094.gif" alt="jeet2103" /> </p>
+
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/edc3ab78364175.5ca3009cb66a0.gif" alt="jeet2103" /> </p>
 
 
 - 🔭 I’m currently working on **Self Driving Car**
