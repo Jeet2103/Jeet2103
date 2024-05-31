@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Natural Language Processing<br><br>👨‍💻 I’m currently learning Machine Learning<br><br>💬 Ask me about Arduino, Python<br><br>📧 How to reach me jeetnandigrami2003@gmail.com<br><br>🎥 Fun fact I love to watch movies
+🔭 I’m currently working on Data Structure and Algorithm<br><br>👨‍💻 I’m currently learning Machine Learning<br><br>💬 Ask me about Arduino, Python<br><br>📧 How to reach me jeetnandigrami2003@gmail.com<br><br>🎥 Fun fact I love to watch movies
 
 
 ## 🌐 Socials:
