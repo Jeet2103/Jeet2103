@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/4910984.gif)]()
+[![MasterHead](https://www.fastcapital360.com/wp-content/uploads/2021/03/graphic_01-2.gif)]()
 <h1 align="center">Hi 👋, I'm Jeet Nandigrami</h1>
 <h3 align="center">A passionate AI Engineer and Deep Learning enthusiast.</h3>
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
