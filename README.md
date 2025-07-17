@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpaperaccess.com/full/4910984.gif)]()
 <h1 align="center">Hi 👋, I'm Jeet Nandigrami</h1>
-<h3 align="center">A passionate Machine Learning developer and Robotics enthusiast from India</h3>
+<h3 align="center">A passionate AI Engineer and Deep Learning enthusiast.</h3>
 <https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif>
 
 
